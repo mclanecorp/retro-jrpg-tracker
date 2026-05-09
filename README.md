@@ -18,6 +18,8 @@ Fonctionnalités :
 - React
 - TypeScript
 - Vite
+- GitHub Actions
+- GitHub Pages
 
 ## Cloner le projet
 
@@ -60,6 +62,19 @@ npm run preview
 
 ```bash
 npm run lint
+```
+
+## Déploiement GitHub Pages
+
+Le site est prévu pour être publié automatiquement sur GitHub Pages via GitHub Actions.
+
+- La CI exécute `npm run lint` puis `npm run build`
+- Le workflow de déploiement publie le contenu de `dist/` sur GitHub Pages à chaque push sur `main`
+
+URL cible de publication :
+
+```text
+https://mclanecorp.github.io/retro-jrpg-tracker/
 ```
 
 ## Notes
