@@ -8,8 +8,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/563538-chrono-trigger/faqs",
     "ratingSource": "IGN / Nintendo Life / MobyGames",
     "id": "snes-01-chrono-trigger",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/1883/chrono-trigger/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-01-chrono-trigger.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chrono%20Trigger%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chrono%20Trigger%20(USA).png"
   },
   {
     "title": "Final Fantasy VI",
@@ -20,8 +21,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/554041-final-fantasy-iii/faqs",
     "ratingSource": "IGN / Nintendo Life / MobyGames",
     "id": "snes-02-final-fantasy-vi",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/177/final-fantasy-iii/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-02-final-fantasy-vi.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20III%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20III%20(USA).png"
   },
   {
     "title": "EarthBound",
@@ -32,8 +34,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/588301-earthbound/faqs",
     "ratingSource": "IGN / Nintendo Life / MobyGames",
     "id": "snes-03-earthbound",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/4837/earthbound/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-03-earthbound.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/EarthBound%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/EarthBound%20(USA).png"
   },
   {
     "title": "Super Mario RPG",
@@ -44,8 +47,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/588739-super-mario-rpg-legend-of-the-seven-stars/faqs",
     "ratingSource": "Nintendo Life / GamesRadar / MobyGames",
     "id": "snes-04-super-mario-rpg",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/4611/super-mario-rpg-legend-of-the-seven-stars/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-04-super-mario-rpg.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA).png"
   },
   {
     "title": "Secret of Mana",
@@ -56,8 +60,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/588646-secret-of-mana/faqs",
     "ratingSource": "Nintendo Life / GamesRadar / MobyGames",
     "id": "snes-05-secret-of-mana",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/904/secret-of-mana/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-05-secret-of-mana.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Secret%20of%20Mana%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Secret%20of%20Mana%20(USA).png"
   },
   {
     "title": "Terranigma",
@@ -68,8 +73,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/588784-terranigma/faqs",
     "ratingSource": "Nintendo Life / GamesRadar / MobyGames",
     "id": "snes-06-terranigma",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/917/terranigma/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-06-terranigma.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terranigma%20(Europe).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terranigma%20(Europe).png"
   },
   {
     "title": "Lufia II",
@@ -80,8 +86,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/588455-lufia-ii-rise-of-the-sinistrals/faqs",
     "ratingSource": "Nintendo Life / RPGFan / MobyGames",
     "id": "snes-07-lufia-ii",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/17254/lufia-ii-rise-of-the-sinistrals/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-07-lufia-ii.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Lufia%20II%20-%20Rise%20of%20the%20Sinistrals%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Lufia%20II%20-%20Rise%20of%20the%20Sinistrals%20(USA).png"
   },
   {
     "title": "Breath of Fire II",
@@ -92,8 +99,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/563529-breath-of-fire-ii/faqs",
     "ratingSource": "Nintendo Life / RPGFan / MobyGames",
     "id": "snes-08-breath-of-fire-ii",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/1892/breath-of-fire-ii/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-08-breath-of-fire-ii.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Breath%20of%20Fire%20II%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Breath%20of%20Fire%20II%20(USA).png"
   },
   {
     "title": "Illusion of Gaia",
@@ -104,8 +112,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/588623-illusion-of-gaia/faqs",
     "ratingSource": "Nintendo Life / GamesRadar / MobyGames",
     "id": "snes-09-illusion-of-gaia",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/4833/illusion-of-gaia/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-09-illusion-of-gaia.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Illusion%20of%20Gaia%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Illusion%20of%20Gaia%20(USA).png"
   },
   {
     "title": "Star Ocean",
@@ -116,8 +125,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/snes/588691-star-ocean/faqs",
     "ratingSource": "Nintendo Life / RPGFan / MobyGames",
     "id": "snes-10-star-ocean",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/4270/star-ocean/screenshots/snes/"
+    "screenshotUrl": "/screenshots/snes-10-star-ocean.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Ocean%20(Japan)%20[T-En%20by%20DeJap%20v1.0].png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Ocean%20(Japan)%20[T-En%20by%20DeJap%20v1.0].png"
   },
   {
     "title": "Final Fantasy VI Advance",
@@ -128,8 +138,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/930370-final-fantasy-vi-advance/faqs",
     "ratingSource": "Metacritic / Nintendo Life",
     "id": "gba-11-final-fantasy-vi-advance",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/21934/final-fantasy-vi-advance/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-11-final-fantasy-vi-advance.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20(USA).png"
   },
   {
     "title": "Golden Sun",
@@ -140,8 +151,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/468548-golden-sun/faqs",
     "ratingSource": "Metacritic / Nintendo Life",
     "id": "gba-12-golden-sun",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/5385/golden-sun/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-12-golden-sun.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20(USA,%20Europe).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20(USA,%20Europe).png"
   },
   {
     "title": "Mario & Luigi: Superstar Saga",
@@ -152,8 +164,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/914402-mario-and-luigi-superstar-saga/faqs",
     "ratingSource": "Metacritic / Nintendo Life",
     "id": "gba-13-mario-luigi-superstar-saga",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/11831/mario-luigi-superstar-saga/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-13-mario-luigi-superstar-saga.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mario%20_%20Luigi%20-%20Superstar%20Saga%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mario%20_%20Luigi%20-%20Superstar%20Saga%20(USA).png"
   },
   {
     "title": "Fire Emblem",
@@ -164,8 +177,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/468480-fire-emblem/faqs",
     "ratingSource": "Metacritic / Eurogamer",
     "id": "gba-14-fire-emblem",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/11131/fire-emblem/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-14-fire-emblem.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20(USA,%20Australia).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20(USA,%20Australia).png"
   },
   {
     "title": "Final Fantasy Tactics Advance",
@@ -176,8 +190,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/560436-final-fantasy-tactics-advance/faqs",
     "ratingSource": "Metacritic / Nintendo Life",
     "id": "gba-15-final-fantasy-tactics-advance",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/11250/final-fantasy-tactics-advance/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-15-final-fantasy-tactics-advance.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20Tactics%20Advance%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20Tactics%20Advance%20(USA).png"
   },
   {
     "title": "Golden Sun: The Lost Age",
@@ -188,8 +203,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/561356-golden-sun-the-lost-age/faqs",
     "ratingSource": "Metacritic / Nintendo Life",
     "id": "gba-16-golden-sun-the-lost-age",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/9711/golden-sun-the-lost-age/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-16-golden-sun-the-lost-age.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20-%20The%20Lost%20Age%20(USA,%20Europe).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20-%20The%20Lost%20Age%20(USA,%20Europe).png"
   },
   {
     "title": "Pokémon Emerald",
@@ -200,8 +216,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/921905-pokemon-emerald-version/faqs",
     "ratingSource": "Metacritic / Nintendo Life",
     "id": "gba-17-pok-mon-emerald",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/17935/pokemon-emerald-version/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-17-pok-mon-emerald.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pokemon%20-%20Emerald%20Version%20(USA,%20Europe).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pokemon%20-%20Emerald%20Version%20(USA,%20Europe).png"
   },
   {
     "title": "Fire Emblem: The Sacred Stones",
@@ -212,8 +229,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/921183-fire-emblem-the-sacred-stones/faqs",
     "ratingSource": "Metacritic / Nintendo Life",
     "id": "gba-18-fire-emblem-the-sacred-stones",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/18384/fire-emblem-the-sacred-stones/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-18-fire-emblem-the-sacred-stones.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20-%20The%20Sacred%20Stones%20(USA,%20Australia).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20-%20The%20Sacred%20Stones%20(USA,%20Australia).png"
   },
   {
     "title": "Tactics Ogre: The Knight of Lodis",
@@ -224,8 +242,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/525043-tactics-ogre-the-knight-of-lodis/faqs",
     "ratingSource": "Metacritic / RPGFan",
     "id": "gba-19-tactics-ogre-the-knight-of-lodis",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/7932/tactics-ogre-the-knight-of-lodis/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-19-tactics-ogre-the-knight-of-lodis.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20(USA).png"
   },
   {
     "title": "Summon Night: Swordcraft Story 2",
@@ -236,8 +255,9 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/928892-summon-night-swordcraft-story-2/faqs",
     "ratingSource": "Metacritic / RPGFan",
     "id": "gba-20-summon-night-swordcraft-story-2",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/26431/summon-night-swordcraft-story-2/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-20-summon-night-swordcraft-story-2.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Summon%20Night%20-%20Swordcraft%20Story%202%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Summon%20Night%20-%20Swordcraft%20Story%202%20(USA).png"
   },
   {
     "title": "Riviera: The Promised Land",
@@ -248,7 +268,8 @@
     "walkthroughUrl": "https://gamefaqs.gamespot.com/gba/921195-riviera-the-promised-land/faqs",
     "ratingSource": "Metacritic / RPGFan",
     "id": "gba-21-riviera-the-promised-land",
-    "screenshotUrl": "",
-    "screenshotGalleryUrl": "https://www.mobygames.com/game/17997/riviera-the-promised-land/screenshots/gameboy-advance/"
+    "screenshotUrl": "/screenshots/gba-21-riviera-the-promised-land.png",
+    "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Riviera%20-%20The%20Promised%20Land%20(USA).png",
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Riviera%20-%20The%20Promised%20Land%20(USA).png"
   }
 ]

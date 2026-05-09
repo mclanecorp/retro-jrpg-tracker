@@ -10,7 +10,7 @@ Fonctionnalités :
 - statut par jeu : pas commencé / en cours / terminé
 - commentaire personnel par jeu
 - lien de soluce pour chaque jeu
-- lien vers une galerie de screenshots pour chaque jeu
+- screenshot local pour chaque jeu
 - sauvegarde locale de la progression via `localStorage`
 
 ## Stack
@@ -66,12 +66,12 @@ npm run lint
 
 ## Déploiement GitHub Pages
 
-Le site est prévu pour être publié automatiquement sur GitHub Pages via GitHub Actions.
+Le site est publié automatiquement sur GitHub Pages via GitHub Actions.
 
 - La CI exécute `npm run lint` puis `npm run build`
 - Le workflow de déploiement publie le contenu de `dist/` sur GitHub Pages à chaque push sur `main`
 
-URL cible de publication :
+URL publique :
 
 ```text
 https://mclanecorp.github.io/retro-jrpg-tracker/
@@ -80,4 +80,4 @@ https://mclanecorp.github.io/retro-jrpg-tracker/
 ## Notes
 
 - Les statuts et commentaires sont sauvegardés dans le navigateur.
-- Les screenshots pointent vers des galeries externes car certaines sources publiques bloquent l'intégration directe des images.
+- Les screenshots locaux proviennent d'un set de snaps RetroArch/libretro-thumbnails intégré au repo pour éviter les liens morts externes.

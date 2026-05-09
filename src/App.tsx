@@ -33,6 +33,8 @@ type SortOption =
   | 'year-asc'
 
 const STORAGE_KEY = 'retro-rpg-tracker-v1'
+const BASE_URL = import.meta.env.BASE_URL
+const LOGO_URL = `${BASE_URL}logo.svg`
 const games = [...(gamesData as Game[])].sort((a, b) => b.rating - a.rating)
 
 const statusMeta: Record<ProgressStatus, { label: string; tone: string }> = {
@@ -45,6 +47,18 @@ const createDefaultProgress = (): ProgressMap =>
   Object.fromEntries(
     games.map((game) => [game.id, { status: 'not-started' as ProgressStatus, comment: '' }]),
   )
+
+const resolveAssetUrl = (assetPath?: string) => {
+  if (!assetPath) {
+    return ''
+  }
+
+  if (/^https?:\/\//.test(assetPath)) {
+    return assetPath
+  }
+
+  return `${BASE_URL}${assetPath.replace(/^\//, '')}`
+}
 
 function App() {
   const [search, setSearch] = useState('')
@@ -152,7 +166,10 @@ function App() {
     <main className="app-shell">
       <section className="hero-panel">
         <div className="hero-copy">
-          <span className="eyebrow">Retro Quest Database</span>
+          <div className="brand-row">
+            <img className="brand-logo" src={LOGO_URL} alt="Logo Retro Quest" />
+            <span className="eyebrow">Retro Quest Database</span>
+          </div>
           <h1>Les meilleurs JRPG et RPG SNES + GBA, classés du mieux noté au moins bien noté.</h1>
           <p>
             Un hub sombre et nerd pour suivre tes classiques rétro : notes, résumés, liens de
@@ -249,12 +266,13 @@ function App() {
         {filteredGames.map((game, index) => {
           const gameProgress = progress[game.id] ?? { status: 'not-started', comment: '' }
           const currentStatus = statusMeta[gameProgress.status]
+          const screenshotUrl = resolveAssetUrl(game.screenshotUrl)
 
           return (
             <article className="game-card" key={game.id}>
               <div className="game-visual">
-                {game.screenshotUrl ? (
-                  <img src={game.screenshotUrl} alt={`Screenshot de ${game.title}`} />
+                {screenshotUrl ? (
+                  <img src={screenshotUrl} alt={`Screenshot de ${game.title}`} loading="lazy" />
                 ) : (
                   <div className="visual-fallback" aria-hidden="true">
                     <span>{game.platform}</span>
@@ -290,8 +308,8 @@ function App() {
                   <a href={game.walkthroughUrl} target="_blank" rel="noreferrer">
                     Voir la soluce
                   </a>
-                  <a href={game.screenshotGalleryUrl} target="_blank" rel="noreferrer">
-                    Voir les screenshots
+                  <a href={screenshotUrl || game.screenshotGalleryUrl} target="_blank" rel="noreferrer">
+                    Ouvrir le screenshot
                   </a>
                 </div>
 
