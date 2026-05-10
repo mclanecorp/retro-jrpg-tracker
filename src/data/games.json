@@ -11,8 +11,8 @@
     "screenshotUrl": "/screenshots/snes-01-chrono-trigger.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chrono%20Trigger%20(USA).png",
     "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chrono%20Trigger%20(USA).png",
-    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/chrono-trigger/test",
-    "frenchReviewSource": "Nintendo-Master"
+    "frenchReviewUrl": "https://www.grospixels.com/site/ct.php",
+    "frenchReviewSource": "GrosPixels"
   },
   {
     "title": "Final Fantasy VI",
@@ -26,8 +26,8 @@
     "screenshotUrl": "/screenshots/snes-02-final-fantasy-vi.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20III%20(USA).png",
     "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20III%20(USA).png",
-    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/final-fantasy-vi/test",
-    "frenchReviewSource": "Nintendo-Master"
+    "frenchReviewUrl": "https://www.rpgsoluce.com/reviews/snes/Final-Fantasy-VI/",
+    "frenchReviewSource": "RPG Soluce"
   },
   {
     "title": "EarthBound",
@@ -41,8 +41,8 @@
     "screenshotUrl": "/screenshots/snes-03-earthbound.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/EarthBound%20(USA).png",
     "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/EarthBound%20(USA).png",
-    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/earthbound/test",
-    "frenchReviewSource": "Nintendo-Master"
+    "frenchReviewUrl": "https://www.grospixels.com/site/earthbound1.php",
+    "frenchReviewSource": "GrosPixels"
   },
   {
     "title": "Super Mario RPG",
@@ -86,8 +86,8 @@
     "screenshotUrl": "/screenshots/snes-06-terranigma.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terranigma%20(Europe).png",
     "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terranigma%20(Europe).png",
-    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/terranigma/test",
-    "frenchReviewSource": "Nintendo-Master"
+    "frenchReviewUrl": "https://www.grospixels.com/site/terra.php",
+    "frenchReviewSource": "GrosPixels"
   },
   {
     "title": "Lufia II",
@@ -146,8 +146,8 @@
     "screenshotUrl": "/screenshots/snes-10-star-ocean.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Ocean%20(Japan)%20[T-En%20by%20DeJap%20v1.0].png",
     "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Ocean%20(Japan)%20[T-En%20by%20DeJap%20v1.0].png",
-    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/super-nintendo/star-ocean/test",
-    "frenchReviewSource": "Nintendo-Master"
+    "frenchReviewUrl": "https://www.rpgsoluce.com/reviews/snes/Star-Ocean/",
+    "frenchReviewSource": "RPG Soluce"
   },
   {
     "title": "Final Fantasy VI Advance",
@@ -176,8 +176,8 @@
     "screenshotUrl": "/screenshots/gba-12-golden-sun.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20(USA,%20Europe).png",
     "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20(USA,%20Europe).png",
-    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/golden-sun/test",
-    "frenchReviewSource": "Nintendo-Master"
+    "frenchReviewUrl": "https://www.rpgsoluce.com/reviews/gba/Golden-Sun/",
+    "frenchReviewSource": "RPG Soluce"
   },
   {
     "title": "Mario & Luigi: Superstar Saga",
