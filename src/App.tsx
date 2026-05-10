@@ -9,7 +9,8 @@ type Game = {
   releaseYear: number
   rating: number
   summary: string
-  walkthroughUrl: string
+  walkthroughUrl?: string
+  walkthroughSource?: string
   frenchReviewUrl: string
   frenchReviewSource?: string
   ratingSource: string
@@ -307,9 +308,13 @@ function App() {
                 <p className="source-line">Source note : {game.ratingSource}</p>
 
                 <div className="action-links">
-                  <a href={game.walkthroughUrl} target="_blank" rel="noreferrer">
-                    Voir la soluce
-                  </a>
+                  {game.walkthroughUrl ? (
+                    <a href={game.walkthroughUrl} target="_blank" rel="noreferrer">
+                      Voir la soluce FR{game.walkthroughSource ? ` (${game.walkthroughSource})` : ''}
+                    </a>
+                  ) : (
+                    <span className="link-disabled">Soluce FR à trouver</span>
+                  )}
                   <a href={game.frenchReviewUrl} target="_blank" rel="noreferrer">
                     Lire le test FR
                   </a>
