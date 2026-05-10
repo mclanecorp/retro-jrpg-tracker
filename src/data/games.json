@@ -10,7 +10,9 @@
     "id": "snes-01-chrono-trigger",
     "screenshotUrl": "/screenshots/snes-01-chrono-trigger.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chrono%20Trigger%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chrono%20Trigger%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chrono%20Trigger%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/chrono-trigger/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Final Fantasy VI",
@@ -23,7 +25,9 @@
     "id": "snes-02-final-fantasy-vi",
     "screenshotUrl": "/screenshots/snes-02-final-fantasy-vi.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20III%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20III%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20III%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/final-fantasy-vi/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "EarthBound",
@@ -36,7 +40,9 @@
     "id": "snes-03-earthbound",
     "screenshotUrl": "/screenshots/snes-03-earthbound.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/EarthBound%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/EarthBound%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/EarthBound%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/earthbound/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Super Mario RPG",
@@ -49,7 +55,9 @@
     "id": "snes-04-super-mario-rpg",
     "screenshotUrl": "/screenshots/snes-04-super-mario-rpg.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/super-mario-rpg/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Secret of Mana",
@@ -62,7 +70,9 @@
     "id": "snes-05-secret-of-mana",
     "screenshotUrl": "/screenshots/snes-05-secret-of-mana.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Secret%20of%20Mana%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Secret%20of%20Mana%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Secret%20of%20Mana%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/secret-of-mana/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Terranigma",
@@ -75,7 +85,9 @@
     "id": "snes-06-terranigma",
     "screenshotUrl": "/screenshots/snes-06-terranigma.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terranigma%20(Europe).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terranigma%20(Europe).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Terranigma%20(Europe).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/terranigma/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Lufia II",
@@ -88,7 +100,9 @@
     "id": "snes-07-lufia-ii",
     "screenshotUrl": "/screenshots/snes-07-lufia-ii.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Lufia%20II%20-%20Rise%20of%20the%20Sinistrals%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Lufia%20II%20-%20Rise%20of%20the%20Sinistrals%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Lufia%20II%20-%20Rise%20of%20the%20Sinistrals%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/lufia-ii/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Breath of Fire II",
@@ -101,7 +115,9 @@
     "id": "snes-08-breath-of-fire-ii",
     "screenshotUrl": "/screenshots/snes-08-breath-of-fire-ii.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Breath%20of%20Fire%20II%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Breath%20of%20Fire%20II%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Breath%20of%20Fire%20II%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/breath-of-fire-ii/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Illusion of Gaia",
@@ -114,7 +130,9 @@
     "id": "snes-09-illusion-of-gaia",
     "screenshotUrl": "/screenshots/snes-09-illusion-of-gaia.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Illusion%20of%20Gaia%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Illusion%20of%20Gaia%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Illusion%20of%20Gaia%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/illusion-of-gaia/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Star Ocean",
@@ -127,7 +145,9 @@
     "id": "snes-10-star-ocean",
     "screenshotUrl": "/screenshots/snes-10-star-ocean.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Ocean%20(Japan)%20[T-En%20by%20DeJap%20v1.0].png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Ocean%20(Japan)%20[T-En%20by%20DeJap%20v1.0].png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Ocean%20(Japan)%20[T-En%20by%20DeJap%20v1.0].png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/snes/star-ocean/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Final Fantasy VI Advance",
@@ -140,7 +160,9 @@
     "id": "gba-11-final-fantasy-vi-advance",
     "screenshotUrl": "/screenshots/gba-11-final-fantasy-vi-advance.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/final-fantasy-vi-advance/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Golden Sun",
@@ -153,7 +175,9 @@
     "id": "gba-12-golden-sun",
     "screenshotUrl": "/screenshots/gba-12-golden-sun.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20(USA,%20Europe).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20(USA,%20Europe).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20(USA,%20Europe).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/golden-sun/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Mario & Luigi: Superstar Saga",
@@ -166,7 +190,9 @@
     "id": "gba-13-mario-luigi-superstar-saga",
     "screenshotUrl": "/screenshots/gba-13-mario-luigi-superstar-saga.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mario%20_%20Luigi%20-%20Superstar%20Saga%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mario%20_%20Luigi%20-%20Superstar%20Saga%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mario%20_%20Luigi%20-%20Superstar%20Saga%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/mario-luigi-superstar-saga/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Fire Emblem",
@@ -179,7 +205,9 @@
     "id": "gba-14-fire-emblem",
     "screenshotUrl": "/screenshots/gba-14-fire-emblem.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20(USA,%20Australia).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20(USA,%20Australia).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20(USA,%20Australia).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/fire-emblem/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Final Fantasy Tactics Advance",
@@ -192,7 +220,9 @@
     "id": "gba-15-final-fantasy-tactics-advance",
     "screenshotUrl": "/screenshots/gba-15-final-fantasy-tactics-advance.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20Tactics%20Advance%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20Tactics%20Advance%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20Tactics%20Advance%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/final-fantasy-tactics-advance/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Golden Sun: The Lost Age",
@@ -205,7 +235,9 @@
     "id": "gba-16-golden-sun-the-lost-age",
     "screenshotUrl": "/screenshots/gba-16-golden-sun-the-lost-age.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20-%20The%20Lost%20Age%20(USA,%20Europe).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20-%20The%20Lost%20Age%20(USA,%20Europe).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Sun%20-%20The%20Lost%20Age%20(USA,%20Europe).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/golden-sun-the-lost-age/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Pokémon Emerald",
@@ -218,7 +250,9 @@
     "id": "gba-17-pok-mon-emerald",
     "screenshotUrl": "/screenshots/gba-17-pok-mon-emerald.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pokemon%20-%20Emerald%20Version%20(USA,%20Europe).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pokemon%20-%20Emerald%20Version%20(USA,%20Europe).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pokemon%20-%20Emerald%20Version%20(USA,%20Europe).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/pokemon-emeraude/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Fire Emblem: The Sacred Stones",
@@ -231,7 +265,9 @@
     "id": "gba-18-fire-emblem-the-sacred-stones",
     "screenshotUrl": "/screenshots/gba-18-fire-emblem-the-sacred-stones.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20-%20The%20Sacred%20Stones%20(USA,%20Australia).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20-%20The%20Sacred%20Stones%20(USA,%20Australia).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20-%20The%20Sacred%20Stones%20(USA,%20Australia).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/fire-emblem-the-sacred-stones/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Tactics Ogre: The Knight of Lodis",
@@ -244,7 +280,9 @@
     "id": "gba-19-tactics-ogre-the-knight-of-lodis",
     "screenshotUrl": "/screenshots/gba-19-tactics-ogre-the-knight-of-lodis.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/tactics-ogre-the-knight-of-lodis/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Summon Night: Swordcraft Story 2",
@@ -257,7 +295,9 @@
     "id": "gba-20-summon-night-swordcraft-story-2",
     "screenshotUrl": "/screenshots/gba-20-summon-night-swordcraft-story-2.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Summon%20Night%20-%20Swordcraft%20Story%202%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Summon%20Night%20-%20Swordcraft%20Story%202%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Summon%20Night%20-%20Swordcraft%20Story%202%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/summon-night-swordcraft-story-2/test",
+    "frenchReviewSource": "Nintendo-Master"
   },
   {
     "title": "Riviera: The Promised Land",
@@ -270,6 +310,8 @@
     "id": "gba-21-riviera-the-promised-land",
     "screenshotUrl": "/screenshots/gba-21-riviera-the-promised-land.png",
     "screenshotGalleryUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Riviera%20-%20The%20Promised%20Land%20(USA).png",
-    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Riviera%20-%20The%20Promised%20Land%20(USA).png"
+    "screenshotSourceUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Riviera%20-%20The%20Promised%20Land%20(USA).png",
+    "frenchReviewUrl": "https://www.nintendo-master.com/jeux/gba/riviera-the-promised-land/test",
+    "frenchReviewSource": "Nintendo-Master"
   }
 ]

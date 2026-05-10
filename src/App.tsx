@@ -10,6 +10,8 @@ type Game = {
   rating: number
   summary: string
   walkthroughUrl: string
+  frenchReviewUrl: string
+  frenchReviewSource?: string
   ratingSource: string
   screenshotUrl?: string
   screenshotGalleryUrl: string
@@ -308,8 +310,8 @@ function App() {
                   <a href={game.walkthroughUrl} target="_blank" rel="noreferrer">
                     Voir la soluce
                   </a>
-                  <a href={screenshotUrl || game.screenshotGalleryUrl} target="_blank" rel="noreferrer">
-                    Ouvrir le screenshot
+                  <a href={game.frenchReviewUrl} target="_blank" rel="noreferrer">
+                    Lire le test FR
                   </a>
                 </div>
 
